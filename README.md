@@ -34,6 +34,8 @@ Note: Add content in sanity before running the nextjs app.
 
 Stripe Integration:
 Generate the api key at stripe.com
+    
+Pending: Need to check sanity integration
 
 
 
